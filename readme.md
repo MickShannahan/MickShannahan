@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 [![MickShannahan's github stats](https://github-readme-stats.vercel.app/api?username=MickShannahan&show_icons=true&bg_color=rgba(0,0,0,0))](https://github.com/MickShannahan/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyx990803&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickShannahan&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
 <!--
 **MickShannahan/MickShannahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

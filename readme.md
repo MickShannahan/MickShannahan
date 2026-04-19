@@ -8,9 +8,8 @@
 
 <div style="display: flex;">
   <img src="normal_library_preview.png" style="width:48%;"/>
-  <img src="normal_library_3d_workspace.png" style="width:48%;/>
+  <img src="normal_library_3d_workspace.png" style="width:48%;"/>
 </div>
-
 
 🌱 I’m currently learning more python. It's a language I have little experience with but enjoy working with.
 
